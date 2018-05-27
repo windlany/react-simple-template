@@ -1,0 +1,10 @@
+.bgImg {
+    width: 650px;
+    height: 325px;
+    margin: 0 auto;
+    background: url(../image/logo.jpg);
+    background-size: 100% 100%; 
+}
+img {
+    width: 650px;
+}
